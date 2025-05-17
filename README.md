@@ -52,7 +52,7 @@ NeuroCar is a cutting-edge platform that leverages blockchain technology to revo
 - **Enhanced Value**: Verified history and tokenized ownership increase resale value.
 
 ## Tech Stack
-- **Blockchain**: Ethereum (Solidity) for smart contracts.
+- **Blockchain**: Avax (Solidity) for smart contracts.
 - **NFT Standards**: ERC-721 for tokenized vehicle representation.
 - **Decentralized Storage**: IPFS for storing metadata, images, and evidence.
 - **Frontend**: React.js with Tailwind CSS for a modern and responsive user interface.
